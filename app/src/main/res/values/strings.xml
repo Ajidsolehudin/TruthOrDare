@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Truth or Dare Islami</string>
+    <string name="KEY_AUTO_NEXT" translatable="false">KEY_AUTO_NEXT</string>
+    <string name="KEY_DONT_SHOW_POPUP_ON_PLAY" translatable="false">KEY_DONT_SHOW_POPUP_ON_PLAY</string>
+    <string name="KEY_SOUND" translatable="false">KEY_SOUND</string>
+    <string name="txt_add_symbol" translatable="false">+</string>
+    <string name="dialog_text">Apakah Anda yakin ingin keluar dari game ini?</string>
+    <string name="rating_dialog_cancel">Batal</string>
+    <string name="rating_dialog_experience">rate us 5 stars:)</string>
+    <string name="rating_dialog_feedback_title">Feedback</string>
+    <string name="rating_dialog_maybe_later">Tidak sekarang</string>
+    <string name="rating_dialog_never">Tidak pernah</string>
+    <string name="rating_dialog_submit">Kirim</string>
+    <string name="rating_dialog_suggestions">"Beri tahu kami apa yang salah dan kami akan mengatasinya!"</string>
+    <string name="tagmanager_preview_dialog_button">Lanjutkan</string>
+    <string name="tagmanager_preview_dialog_message">Mode pratinjau diperbarui.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="title_add_dares">Tambahkan DARE</string>
+    <string name="title_add_players">Tambahkan Pemain</string>
+    <string name="title_add_truths">Tambahkan TRUTH</string>
+    <string name="title_score_card">Papan Skor</string>
+
+
+    <string name="back">Kembali</string>
+    <string name="lets_play">LET\'S PLAY</string>
+    <string name="truth_or_dare">Truth OR Dare Islami</string>
+    <string name="sound_on">Sound On</string>
+    <string name="sound_off">Sound Off</string>
+    <string name="score">SKOR</string>
+    <string name="change">GANTI</string>
+    <string name="add_truth">Add Truth</string>
+    <string name="add_dare">Add Dare</string>
+    <string name="share">BAGIKAN</string>
+    <string name="setting">SETTING</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="kids">kids</string>
+    <string name="text">text</string>
+    <string name="question_here">Pertanyaan di sini</string>
+    <string name="forfeit">Ga sanggup</string>
+    <string name="done">Dipenuhi</string>
+    <string name="score_card">Papan Skor</string>
+    <string name="truth">TRUTH</string>
+    <string name="dare">DARE</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6228331100",
+    "project_id": "truthordare-247c1",
+    "storage_bucket": "truthordare-247c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6228331100:android:3bffd96087674e931eb499",
+        "android_client_info": {
+          "package_name": "com.padahehegame.truthordare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6228331100-60g2fd3qr8hvht8vtrq0vb1vgb0gi50l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVnIGhoY1pgUXIDQyU-l8GA9_z6JhGmLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6228331100-60g2fd3qr8hvht8vtrq0vb1vgb0gi50l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
